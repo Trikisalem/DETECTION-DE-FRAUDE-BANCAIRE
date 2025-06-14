@@ -38,4 +38,19 @@ Un projet innovant combinant **intelligence artificielle**, **Flask** et **Block
 | Pandas, NumPy           | Bootstrap (facultatif)   | Ganache (en local) |
 | Pickle (pour le modèle) |                          |            |
 
+
+
+## 📸 Captures d'écran de l'application
+![Image 2](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/1.png)
+![Image 2](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/3.png)
+
+### 🔹 Exécution 2
+![Execution 2](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/execution2.png)
+
+### 🔹 Exécution 3
+![Execution 3](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/execution3.png)
+
+### 🔹 Exécution 9
+![Execution 9](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/execution9.png)
+
 ---
