@@ -42,7 +42,7 @@ Un projet innovant combinant **intelligence artificielle**, **Flask** et **Block
 
 ## 📸 Captures d'écran de l'application
 ![Image 2](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/1.png)
-![Image 2](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/3.png)
+![Image 2](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/2.png)
 
 ### 🔹 Exécution 2
 ![Execution 2](https://raw.githubusercontent.com/Trikisalem/DETECTION-DE-FRAUDE-BANCAIRE/main/execution2.png)
